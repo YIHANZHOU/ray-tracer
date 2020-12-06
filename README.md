@@ -3,4 +3,4 @@ steps to run
 $ mkdir build
 $ cmake ../
 $ make
-%./raytracer
+$./raytracer
